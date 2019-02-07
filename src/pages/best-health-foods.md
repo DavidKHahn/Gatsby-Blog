@@ -7,4 +7,4 @@ Make sure to eat healthy.
 
 Here's a video showing tips on what to eat.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/?v=VUyEPf-IvdM&t=3s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3GLT7rSPmd8" frameborder="0" allowfullscreen></iframe>
